@@ -13,6 +13,7 @@ Tengo 19 años y actualmente quiero ser un futuro Software tester.
 - Python .
 - Haskell.
 - Assembler.
+- Git.
 
 ## Tecnicas aprendidas:
 - Base de datos mediante Genexus.
@@ -24,6 +25,7 @@ Tengo 19 años y actualmente quiero ser un futuro Software tester.
 - Ingles (Certificado Proficiency - Michigan Language Assessment).
 - Portugues (Universidade Luterana do Brasil - EXAME INTERNACIONAL DE PROFICIÊNCIA EM LÍNGUA PORTUGUESA (EPI)).
 - Español (Lengua Natal).
+- Frances Leve.
 
 ## Nivel academico actual:
 - 6to Cientificado aprobado (Instituto Crandon).
