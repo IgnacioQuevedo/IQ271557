@@ -1,6 +1,6 @@
 ### What's up 👋
 
-#MY CV** 
+#MY CV 
 
 ## Lenguajes de Programación aprendidos:
 - Java
