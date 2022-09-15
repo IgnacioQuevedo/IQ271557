@@ -1,16 +1,28 @@
-### Hi there 👋
+### What's up 👋
 
-<!--
-**IQ271557/IQ271557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#MY CV** 
 
-Here are some ideas to get you started:
+## Lenguajes de Programación aprendidos:
+- Java
+- JavaScript
+- C++
+- HTML
+- CSS
+- Python 
+- Haskell
+- Assembler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnicas aprendidas:
+- Base de datos mediante Genexus
+- Visual Studio Code, Visual Studio 2022, Notepad++
+
+## Idiomas aprendidos:
+- Ingles (Certificado Proficiency (ECPE))
+- Portugues (Examen Intermedio)
+- Español (Lengua Natal)
+
+## Nivel academico actual:
+- 6to Cientificado aprobado (Instituto Crandon)
+- Actualmente en cuarto semestre de Ingenieria en Sistemas (ORT)
+
+
