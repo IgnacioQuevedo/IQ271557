@@ -17,8 +17,8 @@
 - Visual Studio Code, Visual Studio 2022, Notepad++
 
 ## Idiomas aprendidos:
-- Ingles (Certificado Proficiency (ECPE))
-- Portugues (Examen Intermedio)
+- Ingles (Certificado Proficiency - Michigan Language Assessment)
+- Portugues (Universidade Luterana do Brasil - EXAME INTERNACIONAL DE PROFICIÊNCIA EM LÍNGUA PORTUGUESA (EPI))
 - Español (Lengua Natal)
 
 ## Nivel academico actual:
