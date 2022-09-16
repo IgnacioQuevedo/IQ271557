@@ -13,13 +13,12 @@ Tengo 19 años y actualmente quiero ser un futuro Software tester.
 - Python .
 - Haskell.
 - Assembler.
-- Git.
-
 ## Tecnicas aprendidas:
 - Base de datos mediante Genexus.
 - Visual Studio Code, Visual Studio 2022, Notepad++.
 - Conocimiento general sobre director técnico en empresa farmacéutica.
 - Gerencia empresarial.
+- Git
 
 ## Idiomas aprendidos:
 - Ingles (Certificado Proficiency - Michigan Language Assessment).
