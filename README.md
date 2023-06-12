@@ -2,7 +2,7 @@
 
 #MY CV 
 
-Tengo 19 años y actualmente quiero ser un futuro Software tester.
+Tengo 20 años y actualmente quiero trabajar en el ambito de ciberseguridad.
 
 ## Lenguajes de Programación aprendidos:
 - Java.
