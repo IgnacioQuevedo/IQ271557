@@ -2,7 +2,7 @@
 
 #MY CV 
 
-Tengo 20 años y actualmente quiero trabajar en el ambito de ciberseguridad.
+Tengo 20 años, cursando Ingenieria en Sistemas en la ORT buscando enfatizar el ambito de ciberseguridad y hacking etico.
 
 ## Lenguajes de Programación aprendidos:
 - Java.
