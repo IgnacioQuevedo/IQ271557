@@ -2,7 +2,7 @@
 
 #MY CV 
 
-Tengo 20 años, cursando Ingenieria en Sistemas en la ORT buscando enfatizar el ambito de ciberseguridad y hacking etico.
+Tengo 20 años, estoy cursando Ingenieria en Sistemas en la ORT buscando enfatizar el ambito de ciberseguridad y hacking ético.
 
 ## Lenguajes de Programación aprendidos:
 - Java.
