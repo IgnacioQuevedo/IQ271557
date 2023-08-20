@@ -29,3 +29,5 @@ Tengo 19 años, estoy cursando Ingenieria en Sistemas en la ORT buscando enfatiz
 ## Nivel academico actual:
 - 6to Cientificado aprobado (Instituto Crandon).
 - Actualmente en cuarto semestre de Ingenieria en Sistemas (ORT).
+
+<img src="snake.svg">
