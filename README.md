@@ -2,9 +2,9 @@
 
 #MY CV 
 
-Tengo 20 años, estoy cursando Ingenieria en Sistemas en la ORT buscando enfatizar el ambito de ciberseguridad y hacking ético.
+I am 20 years old, nowadays i am studying System Engineering at ORT university emphasizing on the cybersecurity and hacking aspects. 
 
-## Lenguajes de Programación aprendidos:
+## Programming Languages learned:
 - Java.
 - JavaScript.
 - HTML.
@@ -15,22 +15,23 @@ Tengo 20 años, estoy cursando Ingenieria en Sistemas en la ORT buscando enfatiz
 - C#.
 - Assembler.
   
-## Tecnicas aprendidas:
-- Base de datos mediante Genexus.
+## Acquired Techniques:
+- Data Bases by Genexus.
 - Visual Studio Code, Visual Studio 2022, Notepad++, Eclipse.
-- Conocimiento general sobre director técnico en empresa farmacéutica.
-- Gerencia empresarial.
-- Marketing y liderazgo.
+- General Knowledges about technical director at pharmaceutical company.
+- Business Managements.
+- Marketing and Leadership.
 - Git.
+- Networking.
 
-## Idiomas aprendidos:
-- Ingles (Certificado Proficiency - Michigan Language Assessment).
-- Portugués (Universidade Luterana do Brasil - EXAME INTERNACIONAL DE PROFICIÊNCIA EM LÍNGUA PORTUGUESA (EPI)).
-- Español (Lengua Natal).
-- Frances Leve.
+## Spoken Languages:
+- English (Certificado Proficiency - Michigan Language Assessment).
+- Portuguese (Universidade Luterana do Brasil - EXAME INTERNACIONAL DE PROFICIÊNCIA EM LÍNGUA PORTUGUESA (EPI)).
+- Spanish (Lengua Natal).
+- Barely French.
 
-## Nivel academico actual:
-- 6to Cientificado aprobado (Instituto Crandon).
-- Actualmente en quinto semestre de Ingenieria en Sistemas (ORT).
+## Academic level:
+- 6to scientific approved (Instituto Crandon).
+- Actually in fifth semester at System Engineering (ORT).
 
 <img src="snake.svg">
